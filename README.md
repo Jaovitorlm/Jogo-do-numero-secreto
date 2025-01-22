@@ -1,35 +1,49 @@
-🎲 Jogo do Número Secreto:
+# 🎲 Jogo do Número Secreto
 
-Este projeto foi desenvolvido durante o curso Lógica de Programação: Explore Funções e Listas na Alura. Trata-se de um jogo interativo onde o objetivo é adivinhar um número secreto gerado aleatoriamente entre 1 e 10.
+**Um projeto desenvolvido no curso [Lógica de Programação: Explore Funções e Listas](https://www.alura.com.br/).**  
+Neste jogo interativo, seu objetivo é adivinhar um número secreto entre 1 e 10, com dicas dinâmicas e feedback por voz.
 
-🖥️ Interface do Jogo:
+---
 
-A interface apresenta um design moderno e funcional:
-Um título estilizado com o nome do jogo.
-Orientações claras para o jogador escolher um número.
-Campo de entrada para os palpites e botões de "Chutar" e "Novo Jogo".
-Plano de fundo tecnológico e visual cativante, que melhora a experiência do usuário.
+## 🖥️ **Interface do Jogo**
 
-🚀 Funcionalidades:
+A interface combina um design simples e moderno:  
+- **Título estilizado:** Apresenta o nome do jogo.  
+- **Campo de entrada:** Onde o jogador insere seu palpite.  
+- **Botões interativos:** Para "Chutar" e "Novo Jogo".  
+- **Plano de fundo tecnológico:** Cria uma experiência imersiva.  
 
-Mensagem inicial: Orienta o jogador a escolher um número.
-Verificação do palpite: Informa se o número secreto é maior ou menor que o palpite.
-Contagem de tentativas: Exibe quantas tentativas foram necessárias para acertar.
-Voz sintetizada: As mensagens são faladas em português brasileiro usando a biblioteca ResponsiveVoice.
-Reinício do jogo: Permite jogar novamente com um novo número secreto.
+---
 
-🛠️ Tecnologias Utilizadas:
+## 🚀 **Funcionalidades**
 
-HTML, CSS e JavaScript: Para a estrutura, estilo e interatividade.
-ResponsiveVoice: Para a síntese de voz em português.
+- **Mensagem inicial:** Orienta o jogador a começar.  
+- **Dicas dinâmicas:** Indicam se o número secreto é maior ou menor.  
+- **Contagem de tentativas:** Mostra o desempenho do jogador.  
+- **Feedback por voz:** Integração com a biblioteca ResponsiveVoice.  
+- **Botão de reinício:** Permite começar uma nova partida rapidamente.  
 
-💡 Como Jogar:
+---
 
-Abra o jogo no navegador.
-Insira um número entre 1 e 10 no campo de entrada.
-Clique em "Chutar" e siga as dicas até descobrir o número secreto.
-Após acertar, clique em "Novo Jogo" para reiniciar.
+## 🛠️ **Tecnologias Utilizadas**
 
-🎯 Objetivo do Projeto:
+- **HTML, CSS e JavaScript:** Para criar a estrutura, estilo e funcionalidade do jogo.  
+- **ResponsiveVoice:** Para narrar mensagens em português brasileiro.
 
-Praticar os conceitos aprendidos no curso, como funções, listas, manipulação do DOM e integração com bibliotecas externas.
+---
+
+## 💡 **Como Jogar**
+
+1. Abra o jogo no navegador.  
+2. Insira um número entre **1 e 10** no campo de entrada.  
+3. Clique em **"Chutar"** e siga as dicas para encontrar o número secreto.  
+4. Após acertar, clique em **"Novo Jogo"** para começar novamente.  
+
+---
+
+## 🎯 **Objetivo do Projeto**
+
+Praticar os conceitos de:
+- Funções e listas.  
+- Manipulação do DOM.  
+- Integração com bibliotecas externas.  
